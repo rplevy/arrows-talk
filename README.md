@@ -5,7 +5,7 @@ A quick tour of Clojure threading macros:
   * the basic core library arrows
     * ->
 
-  * swiss arrows
+  * rplevy/swiss arrows
     * -<> ; diamond wand
     * -?<> ; nil-shortcutting
     * -!>, -!<> etc ; non-updating
@@ -17,6 +17,11 @@ A quick tour of Clojure threading macros:
     * some->
      * formerly core.incubator -?>
 
-  * Pallet/thread-expr
-
   * LonoCloud/synthread
+    * ->/assoc
+    * ->/in
+    * ->/for
+    * ->/when
+    * ->/aside
+    * ->/reset
+    * ->/apply
