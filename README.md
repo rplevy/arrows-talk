@@ -13,9 +13,7 @@ A quick tour of Clojure threading macros:
   * new core library arrows in 1.5
     * cond->
     * as->
-    * when->
-    * some->
-     * formerly core.incubator -?>
+    * some-> ( formerly core.incubator -?> )
 
   * LonoCloud/synthread
     * ->/assoc
