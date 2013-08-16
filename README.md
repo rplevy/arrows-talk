@@ -1,6 +1,6 @@
 # arrows-talk
 
-A quick tour of Clojure threading macros:
+Lightning Talk given at Bay Area Clojure Meetup. A quick tour of Clojure threading macros.
 
   * the basic core library arrows
     * ->
